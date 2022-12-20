@@ -32,7 +32,7 @@ One script plays audio for regular hits, the second plays audio for headshots.
 - Double click the script you wish to use. It should now start simply display as a tray icon. From there, it should play the sounds as you hit/headshot in the game.
 - To close a script, simply right click it in the taskbar tray and select "Exit".
 
-## Roadmap
+# Roadmap
 
 This is very janky, and more in a pre-release state. Future considered changes include:
 - Functional hit detection on lower screen resolutions
