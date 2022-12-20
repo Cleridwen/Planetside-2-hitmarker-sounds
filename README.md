@@ -38,3 +38,8 @@ This is very janky, and more in a pre-release state. Future considered changes i
 - Functional hit detection on lower screen resolutions
 - Providing a release as a zip file with the correct file structure, and sounds that are ready to be used out of the box.
 - Providing the scripts as compiled and standalone .exe files
+
+# License
+GNU General Public License v3.0 - https://www.gnu.org/licenses/gpl-3.0.en.html
+
+tl:dr; you can copy this project, modify it, remix it, and republish it, as long as you make the source code of your project available, under the same GPL license.
