@@ -13,7 +13,7 @@ y2 := A_ScreenHeight //2 -A_ScreenHeight *0.014
 PixelExist(xPos, yPos) ; constantly checks if a pixel in a 5x5 rectangle at a given location matches the right color
 {
   CoordMode, Pixel, Screen
-  PixelSearch, , , xPos -2, yPos -2, xPos +2, yPos +2, 0x7171ec, 20, Fast
+  PixelSearch, , , xPos -1, yPos -1, xPos +1, yPos +1, 0x7777ff, 18, Fast
   if ErrorLevel
     return 0
   else
