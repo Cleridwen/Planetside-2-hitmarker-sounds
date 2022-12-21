@@ -3,11 +3,11 @@ This project contains two AutoHotkey scripts that will play audio files of your 
 
 One script plays audio for regular hits, the second plays audio for headshots.
 
-This is all currently pretty janky. Accidental triggers may happen, especially if you look directly at TR terminals and control points.
+This is all currently pretty janky. Accidental triggers will happen, especially if you look directly at TR terminals and control points.
 
 # Limitations
-- Does not work if the game is not on the main monitor, or is displayed in a floating window: the game has to be in fullscreen or borderless window on the main monitor.
-- While very unlikely in practice, a hitmarker sound may play if the color happens to come on screen for another reason than the hitmarker itself.
+- Does not work if the game is not on the main monitor, or is displayed in a floating window: the game has to be in fullscreen or borderless window, on the main monitor.
+- A hitmarker sound may play if the color happens to come on screen for another reason than the hitmarker itself.
 - The audio file(s) have to be in .wav format.
 - Only tested on Windows.
 
