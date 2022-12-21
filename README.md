@@ -36,6 +36,10 @@ If you want to test early versions of the script, you can also directly download
 
 Make sure to come back and check the [releases](https://github.com/Cleridwen/Planetside-2-hitmarker-sounds/releases) page from time to time, to find updated versions.
 
+# Contributing
+
+I'm very much a beginner to all of this, so, contributions are more than welcome! Try to open an issue to detail your idea, so that other contributors can figure out if it would work with their current ideas as well, and to avoid having multiple people working on the same thing. Chances are you know what you're doing better than I do.
+
 # License
 GNU General Public License v3.0 - https://www.gnu.org/licenses/gpl-3.0.en.html
 
