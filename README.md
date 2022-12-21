@@ -15,7 +15,7 @@ This is all currently pretty janky. Accidental triggers may happen, especially i
 
 ## Download
 
-- Download the [latest release](https://github.com/Cleridwen/Planetside-2-hitmarker-sounds/releases/latest), and extract the zip file to the folder of your choice.
+- Download the [latest release](https://github.com/Cleridwen/Planetside-2-hitmarker-sounds/releases/latest), and extract the .zip file to the folder of your choice.
 
 If you want to test early versions of the script, you can also directly download the files up there.
 
