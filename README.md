@@ -3,6 +3,8 @@ This project contains two AutoHotkey scripts that will play audio files of your 
 
 One script plays audio for regular hits, the second plays audio for headshots.
 
+This is all currently pretty janky. Accidental triggers may happen, especially if you look directly at TR terminals and control points.
+
 # Limitations
 - Does not work if the game is not on the main monitor, or is displayed in a floating window: the game has to be in fullscreen or borderless window on the main monitor.
 - While very unlikely in practice, a hitmarker sound may play if the color happens to come on screen for another reason than the hitmarker itself.
@@ -13,8 +15,7 @@ One script plays audio for regular hits, the second plays audio for headshots.
 
 ## Download
 
-- Make sure you have an updated version of AutoHotkey installed. Download the official version of AHK here: https://www.autohotkey.com/
-- Download the latest version of the .AHK scripts from the [releases](https://github.com/Cleridwen/Planetside-2-hitmarker-sound/releases/latest).
+- Download the [latest release](https://github.com/Cleridwen/Planetside-2-hitmarker-sound/releases/latest), and extract the zip file to the folder of your choice.
 
 If you want to test early versions of the script, you can also directly download the files up there.
 
@@ -30,15 +31,10 @@ If you want to test early versions of the script, you can also directly download
 ├─PS2hitsound.ahk
 └─PS2hitsoundHS.ahk
 ```
-- Double click the script you wish to use. It should now start simply display as a tray icon. From there, it should play the sounds as you hit/headshot in the game.
+- Double click the script you wish to use. If you want to use the .ahk scripts directly, make sure you have an updated version of [AutoHotkey](https://www.autohotkey.com/) installed. The scripts will run as a tray icon. From there, it should play the sounds as you hit/headshot in the game.
 - To close a script, simply right click it in the taskbar tray and select "Exit".
 
-# Roadmap
-
-This is very janky, and more in a pre-release state. Future considered changes include:
-- Functional hit detection for every common screen resolutions
-- Providing a release as a zip file with the correct file structure, and sounds that are ready to be used out of the box.
-- Providing the scripts as compiled and standalone .exe files
+Make sure to come back and check the [releases](https://github.com/Cleridwen/Planetside-2-hitmarker-sound/releases/) page from time to time, to find updated versions.
 
 # License
 GNU General Public License v3.0 - https://www.gnu.org/licenses/gpl-3.0.en.html
