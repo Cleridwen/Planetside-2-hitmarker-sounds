@@ -1,5 +1,5 @@
 # Planetside-2-hitmarker-sounds
-This project contains two AutoHotKey scripts that will play audio files of your choosing, whenever you land a hit in the game Planetside 2 on PC. It does so by scanning the color of specific pixels on the screen, where the red "X" hitmarker would show up. If two of those pixels turn the specified red, then a .wav file is played.
+This project contains two AutoHotkey scripts that will play audio files of your choosing, whenever you land a hit in the game Planetside 2 on PC. It does so by scanning the color of specific pixels on the screen, where the red "X" hitmarker would show up. If two of those pixels turn the specified red, then a .wav file is played.
 
 One script plays audio for regular hits, the second plays audio for headshots.
 
@@ -13,7 +13,7 @@ One script plays audio for regular hits, the second plays audio for headshots.
 
 ## Download
 
-- Make sure you have an updated version of AutoHotKey installed. Download the official version of AHK here: https://www.autohotkey.com/
+- Make sure you have an updated version of AutoHotkey installed. Download the official version of AHK here: https://www.autohotkey.com/
 - Download the latest version of the .AHK scripts from the [releases](https://github.com/Cleridwen/Planetside-2-hitmarker-sound/releases/latest).
 
 If you want to test early versions of the script, you can also directly download the files up there.
