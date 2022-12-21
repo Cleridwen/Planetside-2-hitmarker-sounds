@@ -16,11 +16,13 @@ One script plays audio for regular hits, the second plays audio for headshots.
 - Make sure you have an updated version of AutoHotKey installed. Download the official version of AHK here: https://www.autohotkey.com/
 - Download the latest version of the .AHK scripts from the [releases](https://github.com/Cleridwen/Planetside-2-hitmarker-sound/releases/latest).
 
+If you want to test early versions of the script, you can also directly download the files up there.
+
 ## Use
 
 - Make sure that the audio files you want to use are in .wav format.
 - Rename the files as `hitsound.wav` and `hitsoundHS.wav`, for the regular hitmarker and headshot hitmarker respectively.
-- Place the audio files in a folder titles `Sounds`, located in the same folder as the scripts. It should look like this:
+- Place the audio files in a folder named `Sounds`, located in the same folder as the scripts. It should look like this:
 ```
 ├───Sounds
 │   ├─hitsound.wav
