@@ -4,11 +4,10 @@ This project contains two AutoHotKey scripts that will play audio files of your 
 One script plays audio for regular hits, the second plays audio for headshots.
 
 # Limitations
-- Currently only works in screen resolutions of 1080x1920 and above: the game's HUD scaled differently below these resolutions.
 - Does not work if the game is not on the main monitor, or is displayed in a floating window: the game has to be in fullscreen or borderless window on the main monitor.
+- While very unlikely in practice, a hitmarker sound may play if the color happens to come on screen for another reason than the hitmarker itself.
 - The audio file(s) have to be in .wav format.
 - Only tested on Windows.
-- While unlikely, a hitmarker sound may play if the color happens to come on screen for another reason than the hitmarker itself.
 
 # How to use:
 
@@ -35,7 +34,7 @@ One script plays audio for regular hits, the second plays audio for headshots.
 # Roadmap
 
 This is very janky, and more in a pre-release state. Future considered changes include:
-- Functional hit detection on lower screen resolutions
+- Functional hit detection for every common screen resolutions
 - Providing a release as a zip file with the correct file structure, and sounds that are ready to be used out of the box.
 - Providing the scripts as compiled and standalone .exe files
 
