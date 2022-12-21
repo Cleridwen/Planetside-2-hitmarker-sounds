@@ -15,7 +15,7 @@ This is all currently pretty janky. Accidental triggers may happen, especially i
 
 ## Download
 
-- Download the [latest release](https://github.com/Cleridwen/Planetside-2-hitmarker-sound/releases/latest), and extract the zip file to the folder of your choice.
+- Download the [latest release](https://github.com/Cleridwen/Planetside-2-hitmarker-sounds/releases/latest), and extract the zip file to the folder of your choice.
 
 If you want to test early versions of the script, you can also directly download the files up there.
 
@@ -34,7 +34,7 @@ If you want to test early versions of the script, you can also directly download
 - Double click the script you wish to use. If you want to use the .ahk scripts directly, make sure you have an updated version of [AutoHotkey](https://www.autohotkey.com/) installed. The scripts will run as a tray icon. From there, it should play the sounds as you hit/headshot in the game.
 - To close a script, simply right click it in the taskbar tray and select "Exit".
 
-Make sure to come back and check the [releases](https://github.com/Cleridwen/Planetside-2-hitmarker-sound/releases/) page from time to time, to find updated versions.
+Make sure to come back and check the [releases](https://github.com/Cleridwen/Planetside-2-hitmarker-sounds/releases) page from time to time, to find updated versions.
 
 # License
 GNU General Public License v3.0 - https://www.gnu.org/licenses/gpl-3.0.en.html
